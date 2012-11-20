@@ -16,9 +16,9 @@ If you use CM7.2 and your HTC Vision has a german qwertz keyboard this extended 
 	AT          =>               ^
 	COMMA       =>               ~
 
-USR1 is the left softkey (labeled as SYM).
-USR2 is the first right softkey (labeled as :.1).
-USR3 is the second right softkey (labeled as :.2).
+ * USR1 is the left softkey (labeled as SYM).
+ * USR2 is the first right softkey (labeled as :.1).
+ * USR3 is the second right softkey (labeled as :.2).
 
 
 ### Compatibility
