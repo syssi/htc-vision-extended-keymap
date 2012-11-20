@@ -5,7 +5,7 @@ An extended keymap for the qwertz hardware keyboard of my HTC Vision (aka G2, De
 
 
 ### Additional assignments
-                                      Base   Shift   FN
+	                              Base   Shift   FN
 	Key 217 = BACKSLASH      =>     `      |     \
 	Key 184 = LEFT_BRACKET   =>     <      {     [
 	Key 185 = RIGHT_BRACKET  =>     >      }     ]
